@@ -21,8 +21,8 @@ git clone https://github.com/galib-i/distributed-chat-system.git
 ```
 2. Compile and run using your preferred IDE or command line
 ## Usage
-1. __Start the server__: the server will run on the configured address:port
-2. __Start the client(s)__: select a username and join the configured address:port
+1. __Start the server__ (Server.java): the server will run on the configured address:port
+2. __Start the client(s)__ (Client.java): select a username and join the configured address:port
    
 <img width="293" height="278" alt="image" src="https://github.com/user-attachments/assets/efe838de-d332-49f2-823c-fcaed7440a1b" />
 
